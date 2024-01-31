@@ -1,6 +1,6 @@
 ## Introduction
 
-TOPSIS( Technique for order for preference by similarity to Ideal solution ) for MCDM (Multiple criteria decision making) in Python compiled by KHUSHI MITTAL, 102103357, TIET, Patiala.
+TOPSIS( Technique for order for preference by similarity to Ideal solution ) for MCDM (Multiple criteria decision making) in Python. 
 
 ## Installation
 Use the package manager pip to install.
@@ -46,6 +46,5 @@ The best model is M2
 
 ## License
 
-©2024 Khushi Mittal
 This repository is licensed under the MIT license.
 See LICENSE for details.
